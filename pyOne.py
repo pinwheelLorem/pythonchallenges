@@ -1,3 +1,7 @@
+#Challenge 1
+#Middle letter 
+#hi function return the position of all the uppercase character in a string.
+
 def hi(str):
     L= list(str)
     S = []
