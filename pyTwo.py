@@ -12,4 +12,3 @@ def mid(str) :
         if n%2 != 0:
             return L[n//2] 
         return ''
-    return str
