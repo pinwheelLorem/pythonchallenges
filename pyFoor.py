@@ -13,6 +13,6 @@ def doubl_letters(L):
            return True                      
   return False            
 
-def db_letters(str) :
+def db_letters(str) : #2nd
     return any([a == b for a,b in zip(str,str[1:])]) 
  
